@@ -18,10 +18,8 @@ style: style.css
 
 ### Who am I?
 * 用 Linux 用了六年的小朋友
-* 丹丹跟海豹的快樂夥伴
-* CPRTeam 線路組成員
-* SITCON 夏令營活動組
-* SITCON 2016 議程組
+* SITCON 志工
+* CPRTeam 線路組志工
 * http://pcchou.me/
 
 --
